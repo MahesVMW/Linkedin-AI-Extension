@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-Your local changes to the README file.
-=======
-The remote changes in the README file.
->>>>>>> origin/main
+# Video Sample
+<video width="600" controls>
+  <source src="assets/Linkedin-ai.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
