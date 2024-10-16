@@ -1,5 +1,2 @@
 # Video Sample
-<video width="600" controls>
-  <source src="assets/Linkedin-ai.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![image alt](https://github.com/MahesVMW/Linkedin-AI-Extension/blob/b23fa21681a7235aaeb3d49a0d5a6d880ccffc3c/AI-linkedin.mp4)
